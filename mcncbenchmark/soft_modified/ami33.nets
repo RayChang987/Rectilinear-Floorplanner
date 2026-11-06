@@ -1,0 +1,535 @@
+UCLA nets 1.0
+# Created      : Tue Nov 07 17:53:04 PST 2000
+# User         : huaizhi@olympus
+# Platform     : SunOS 5.6 sparc
+
+NumNets : 85
+NumPins : 442
+
+NetDegree : 33
+bk9d B	: %0.0 %0.0
+bk9c B	: %0.0 %0.0
+bk9b B	: %0.0 %0.0
+bk9a B	: %0.0 %0.0
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+bk7 B	: %0.0 %0.0
+bk6 B	: %0.0 %0.0
+bk5c B	: %0.0 %0.0
+bk5b B	: %0.0 %0.0
+bk5a B	: %0.0 %0.0
+bk4 B	: %0.0 %0.0
+bk3 B	: %0.0 %0.0
+bk21 B	: %0.0 %0.0
+bk20 B	: %0.0 %0.0
+bk2 B	: %0.0 %0.0
+bk19 B	: %0.0 %0.0
+bk18 B	: %0.0 %0.0
+bk17b B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+bk16 B	: %0.0 %0.0
+bk15b B	: %0.0 %0.0
+bk15a B	: %0.0 %0.0
+bk14c B	: %0.0 %0.0
+bk14b B	: %0.0 %0.0
+bk14a B	: %0.0 %0.0
+bk13 B	: %0.0 %0.0
+bk12 B	: %0.0 %0.0
+bk11 B	: %0.0 %0.0
+bk10c B	: %0.0 %0.0
+bk10b B	: %0.0 %0.0
+bk10a B	: %0.0 %0.0
+bk1 B	: %0.0 %0.0
+NetDegree : 56
+bk9d B	: %0.0 %0.0
+bk9c B	: %0.0 %0.0
+bk9c B	: %0.0 %0.0
+bk9b B	: %0.0 %0.0
+bk9b B	: %0.0 %0.0
+bk9a B	: %0.0 %0.0
+bk9a B	: %0.0 %0.0
+bk7 B	: %0.0 %0.0
+bk7 B	: %0.0 %0.0
+bk6 B	: %0.0 %0.0
+bk6 B	: %0.0 %0.0
+bk5c B	: %0.0 %0.0
+bk5c B	: %0.0 %0.0
+bk5b B	: %0.0 %0.0
+bk5b B	: %0.0 %0.0
+bk5a B	: %0.0 %0.0
+bk4 B	: %0.0 %0.0
+bk4 B	: %0.0 %0.0
+bk3 B	: %0.0 %0.0
+bk3 B	: %0.0 %0.0
+bk21 B	: %0.0 %0.0
+bk21 B	: %0.0 %0.0
+bk20 B	: %0.0 %0.0
+bk20 B	: %0.0 %0.0
+bk2 B	: %0.0 %0.0
+bk2 B	: %0.0 %0.0
+bk18 B	: %0.0 %0.0
+bk18 B	: %0.0 %0.0
+bk17b B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+bk16 B	: %0.0 %0.0
+bk16 B	: %0.0 %0.0
+bk15b B	: %0.0 %0.0
+bk15b B	: %0.0 %0.0
+bk15a B	: %0.0 %0.0
+bk15a B	: %0.0 %0.0
+bk14c B	: %0.0 %0.0
+bk14c B	: %0.0 %0.0
+bk14b B	: %0.0 %0.0
+bk14b B	: %0.0 %0.0
+bk14a B	: %0.0 %0.0
+bk14a B	: %0.0 %0.0
+bk13 B	: %0.0 %0.0
+bk12 B	: %0.0 %0.0
+bk12 B	: %0.0 %0.0
+bk11 B	: %0.0 %0.0
+bk11 B	: %0.0 %0.0
+bk10c B	: %0.0 %0.0
+bk10c B	: %0.0 %0.0
+bk10b B	: %0.0 %0.0
+bk10b B	: %0.0 %0.0
+bk10a B	: %0.0 %0.0
+bk10a B	: %0.0 %0.0
+bk1 B	: %0.0 %0.0
+bk1 B	: %0.0 %0.0
+NetDegree : 47
+bk9d B	: %0.0 %0.0
+bk9c B	: %0.0 %0.0
+bk9c B	: %0.0 %0.0
+bk9b B	: %0.0 %0.0
+bk9b B	: %0.0 %0.0
+bk9a B	: %0.0 %0.0
+bk9a B	: %0.0 %0.0
+bk7 B	: %0.0 %0.0
+bk7 B	: %0.0 %0.0
+bk6 B	: %0.0 %0.0
+bk6 B	: %0.0 %0.0
+bk5c B	: %0.0 %0.0
+bk5b B	: %0.0 %0.0
+bk5b B	: %0.0 %0.0
+bk5a B	: %0.0 %0.0
+bk5a B	: %0.0 %0.0
+bk4 B	: %0.0 %0.0
+bk4 B	: %0.0 %0.0
+bk3 B	: %0.0 %0.0
+bk3 B	: %0.0 %0.0
+bk21 B	: %0.0 %0.0
+bk21 B	: %0.0 %0.0
+bk20 B	: %0.0 %0.0
+bk20 B	: %0.0 %0.0
+bk2 B	: %0.0 %0.0
+bk2 B	: %0.0 %0.0
+bk18 B	: %0.0 %0.0
+bk18 B	: %0.0 %0.0
+bk17b B	: %0.0 %0.0
+bk17b B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+bk14b B	: %0.0 %0.0
+bk14b B	: %0.0 %0.0
+bk13 B	: %0.0 %0.0
+bk13 B	: %0.0 %0.0
+bk12 B	: %0.0 %0.0
+bk11 B	: %0.0 %0.0
+bk11 B	: %0.0 %0.0
+bk10c B	: %0.0 %0.0
+bk10c B	: %0.0 %0.0
+bk10b B	: %0.0 %0.0
+bk10b B	: %0.0 %0.0
+bk10a B	: %0.0 %0.0
+bk10a B	: %0.0 %0.0
+bk1 B	: %0.0 %0.0
+bk1 B	: %0.0 %0.0
+NetDegree : 50
+bk9d B	: %0.0 %0.0
+bk9c B	: %0.0 %0.0
+bk9c B	: %0.0 %0.0
+bk9b B	: %0.0 %0.0
+bk9b B	: %0.0 %0.0
+bk9a B	: %0.0 %0.0
+bk9a B	: %0.0 %0.0
+bk7 B	: %0.0 %0.0
+bk6 B	: %0.0 %0.0
+bk6 B	: %0.0 %0.0
+bk5c B	: %0.0 %0.0
+bk5b B	: %0.0 %0.0
+bk5b B	: %0.0 %0.0
+bk5a B	: %0.0 %0.0
+bk5a B	: %0.0 %0.0
+bk4 B	: %0.0 %0.0
+bk4 B	: %0.0 %0.0
+bk3 B	: %0.0 %0.0
+bk3 B	: %0.0 %0.0
+bk21 B	: %0.0 %0.0
+bk21 B	: %0.0 %0.0
+bk20 B	: %0.0 %0.0
+bk2 B	: %0.0 %0.0
+bk2 B	: %0.0 %0.0
+bk18 B	: %0.0 %0.0
+bk18 B	: %0.0 %0.0
+bk17b B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+bk15b B	: %0.0 %0.0
+bk15b B	: %0.0 %0.0
+bk15a B	: %0.0 %0.0
+bk14c B	: %0.0 %0.0
+bk14c B	: %0.0 %0.0
+bk14b B	: %0.0 %0.0
+bk14b B	: %0.0 %0.0
+bk14a B	: %0.0 %0.0
+bk14a B	: %0.0 %0.0
+bk13 B	: %0.0 %0.0
+bk12 B	: %0.0 %0.0
+bk12 B	: %0.0 %0.0
+bk11 B	: %0.0 %0.0
+bk11 B	: %0.0 %0.0
+bk10c B	: %0.0 %0.0
+bk10b B	: %0.0 %0.0
+bk10b B	: %0.0 %0.0
+bk10a B	: %0.0 %0.0
+bk10a B	: %0.0 %0.0
+bk1 B	: %0.0 %0.0
+bk1 B	: %0.0 %0.0
+NetDegree : 44
+bk9d B	: %0.0 %0.0
+bk9c B	: %0.0 %0.0
+bk9c B	: %0.0 %0.0
+bk9b B	: %0.0 %0.0
+bk9b B	: %0.0 %0.0
+bk9a B	: %0.0 %0.0
+bk9a B	: %0.0 %0.0
+bk7 B	: %0.0 %0.0
+bk6 B	: %0.0 %0.0
+bk5c B	: %0.0 %0.0
+bk5b B	: %0.0 %0.0
+bk5b B	: %0.0 %0.0
+bk5a B	: %0.0 %0.0
+bk4 B	: %0.0 %0.0
+bk4 B	: %0.0 %0.0
+bk3 B	: %0.0 %0.0
+bk3 B	: %0.0 %0.0
+bk21 B	: %0.0 %0.0
+bk21 B	: %0.0 %0.0
+bk20 B	: %0.0 %0.0
+bk20 B	: %0.0 %0.0
+bk2 B	: %0.0 %0.0
+bk2 B	: %0.0 %0.0
+bk18 B	: %0.0 %0.0
+bk18 B	: %0.0 %0.0
+bk17b B	: %0.0 %0.0
+bk17b B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+bk14b B	: %0.0 %0.0
+bk14b B	: %0.0 %0.0
+bk13 B	: %0.0 %0.0
+bk13 B	: %0.0 %0.0
+bk12 B	: %0.0 %0.0
+bk11 B	: %0.0 %0.0
+bk11 B	: %0.0 %0.0
+bk10c B	: %0.0 %0.0
+bk10c B	: %0.0 %0.0
+bk10b B	: %0.0 %0.0
+bk10b B	: %0.0 %0.0
+bk10a B	: %0.0 %0.0
+bk10a B	: %0.0 %0.0
+bk1 B	: %0.0 %0.0
+bk1 B	: %0.0 %0.0
+NetDegree : 2
+bk9d B	: %0.0 %0.0
+bk9c B	: %0.0 %0.0
+NetDegree : 33
+bk9d B	: %0.0 %0.0
+bk9c B	: %0.0 %0.0
+bk9b B	: %0.0 %0.0
+bk9a B	: %0.0 %0.0
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+bk7 B	: %0.0 %0.0
+bk6 B	: %0.0 %0.0
+bk5c B	: %0.0 %0.0
+bk5b B	: %0.0 %0.0
+bk5a B	: %0.0 %0.0
+bk4 B	: %0.0 %0.0
+bk3 B	: %0.0 %0.0
+bk21 B	: %0.0 %0.0
+bk20 B	: %0.0 %0.0
+bk2 B	: %0.0 %0.0
+bk19 B	: %0.0 %0.0
+bk18 B	: %0.0 %0.0
+bk17b B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+bk16 B	: %0.0 %0.0
+bk15b B	: %0.0 %0.0
+bk15a B	: %0.0 %0.0
+bk14c B	: %0.0 %0.0
+bk14b B	: %0.0 %0.0
+bk14a B	: %0.0 %0.0
+bk13 B	: %0.0 %0.0
+bk12 B	: %0.0 %0.0
+bk11 B	: %0.0 %0.0
+bk10c B	: %0.0 %0.0
+bk10b B	: %0.0 %0.0
+bk10a B	: %0.0 %0.0
+bk1 B	: %0.0 %0.0
+NetDegree : 2
+bk9d B	: %0.0 %0.0
+bk10a B	: %0.0 %0.0
+NetDegree : 2
+bk9d B	: %0.0 %0.0
+bk9b B	: %0.0 %0.0
+NetDegree : 9
+bk9c B	: %0.0 %0.0
+bk9c B	: %0.0 %0.0
+bk9b B	: %0.0 %0.0
+bk20 B	: %0.0 %0.0
+bk14b B	: %0.0 %0.0
+bk12 B	: %0.0 %0.0
+bk11 B	: %0.0 %0.0
+bk10b B	: %0.0 %0.0
+bk10b B	: %0.0 %0.0
+NetDegree : 2
+bk9c B	: %0.0 %0.0
+bk9a B	: %0.0 %0.0
+NetDegree : 2
+bk9c B	: %0.0 %0.0
+bk9b B	: %0.0 %0.0
+NetDegree : 2
+bk9b B	: %0.0 %0.0
+bk10a B	: %0.0 %0.0
+NetDegree : 4
+bk9b B	: %0.0 %0.0
+bk10b B	: %0.0 %0.0
+bk10b B	: %0.0 %0.0
+bk10a B	: %0.0 %0.0
+NetDegree : 2
+bk9a B	: %0.0 %0.0
+bk10c B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+NetDegree : 3
+bk8b B	: %0.0 %0.0
+bk19 B	: %0.0 %0.0
+bk16 B	: %0.0 %0.0
+NetDegree : 3
+bk8b B	: %0.0 %0.0
+bk19 B	: %0.0 %0.0
+bk16 B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk19 B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk19 B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk19 B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk19 B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+NetDegree : 2
+bk8b B	: %0.0 %0.0
+bk8a B	: %0.0 %0.0
+NetDegree : 3
+bk8a B	: %0.0 %0.0
+bk20 B	: %0.0 %0.0
+bk16 B	: %0.0 %0.0
+NetDegree : 2
+bk8a B	: %0.0 %0.0
+bk16 B	: %0.0 %0.0
+NetDegree : 2
+bk8a B	: %0.0 %0.0
+bk16 B	: %0.0 %0.0
+NetDegree : 2
+bk8a B	: %0.0 %0.0
+bk16 B	: %0.0 %0.0
+NetDegree : 2
+bk8a B	: %0.0 %0.0
+bk16 B	: %0.0 %0.0
+NetDegree : 2
+bk8a B	: %0.0 %0.0
+bk16 B	: %0.0 %0.0
+NetDegree : 2
+bk8a B	: %0.0 %0.0
+bk16 B	: %0.0 %0.0
+NetDegree : 3
+bk8a B	: %0.0 %0.0
+bk16 B	: %0.0 %0.0
+bk15b B	: %0.0 %0.0
+NetDegree : 2
+bk7 B	: %0.0 %0.0
+bk17b B	: %0.0 %0.0
+NetDegree : 2
+bk6 B	: %0.0 %0.0
+bk5c B	: %0.0 %0.0
+NetDegree : 2
+bk6 B	: %0.0 %0.0
+bk5c B	: %0.0 %0.0
+NetDegree : 3
+bk6 B	: %0.0 %0.0
+bk5c B	: %0.0 %0.0
+bk5b B	: %0.0 %0.0
+NetDegree : 3
+bk6 B	: %0.0 %0.0
+bk5c B	: %0.0 %0.0
+bk5b B	: %0.0 %0.0
+NetDegree : 3
+bk6 B	: %0.0 %0.0
+bk4 B	: %0.0 %0.0
+bk3 B	: %0.0 %0.0
+NetDegree : 2
+bk6 B	: %0.0 %0.0
+bk4 B	: %0.0 %0.0
+NetDegree : 2
+bk5c B	: %0.0 %0.0
+bk3 B	: %0.0 %0.0
+NetDegree : 2
+bk5b B	: %0.0 %0.0
+bk5a B	: %0.0 %0.0
+NetDegree : 2
+bk5b B	: %0.0 %0.0
+bk5b B	: %0.0 %0.0
+NetDegree : 3
+bk5b B	: %0.0 %0.0
+bk5a B	: %0.0 %0.0
+bk2 B	: %0.0 %0.0
+NetDegree : 2
+bk5b B	: %0.0 %0.0
+bk1 B	: %0.0 %0.0
+NetDegree : 2
+bk5b B	: %0.0 %0.0
+bk5a B	: %0.0 %0.0
+NetDegree : 2
+bk5b B	: %0.0 %0.0
+bk1 B	: %0.0 %0.0
+NetDegree : 2
+bk5b B	: %0.0 %0.0
+bk1 B	: %0.0 %0.0
+NetDegree : 2
+bk5a B	: %0.0 %0.0
+bk2 B	: %0.0 %0.0
+NetDegree : 2
+bk5a B	: %0.0 %0.0
+bk4 B	: %0.0 %0.0
+NetDegree : 2
+bk4 B	: %0.0 %0.0
+bk17b B	: %0.0 %0.0
+NetDegree : 2
+bk4 B	: %0.0 %0.0
+bk3 B	: %0.0 %0.0
+NetDegree : 2
+bk3 B	: %0.0 %0.0
+bk15a B	: %0.0 %0.0
+NetDegree : 3
+bk20 B	: %0.0 %0.0
+bk18 B	: %0.0 %0.0
+bk17b B	: %0.0 %0.0
+NetDegree : 2
+bk20 B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+NetDegree : 2
+bk20 B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+NetDegree : 2
+bk20 B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+NetDegree : 3
+bk20 B	: %0.0 %0.0
+bk18 B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+NetDegree : 2
+bk20 B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+NetDegree : 4
+bk20 B	: %0.0 %0.0
+bk18 B	: %0.0 %0.0
+bk17b B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+NetDegree : 2
+bk18 B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+NetDegree : 2
+bk18 B	: %0.0 %0.0
+bk17a B	: %0.0 %0.0
+NetDegree : 2
+bk17b B	: %0.0 %0.0
+bk16 B	: %0.0 %0.0
+NetDegree : 2
+bk16 B	: %0.0 %0.0
+bk14c B	: %0.0 %0.0
+NetDegree : 2
+bk16 B	: %0.0 %0.0
+bk14b B	: %0.0 %0.0
+NetDegree : 2
+bk16 B	: %0.0 %0.0
+bk14b B	: %0.0 %0.0
+NetDegree : 2
+bk15b B	: %0.0 %0.0
+bk15a B	: %0.0 %0.0
+NetDegree : 2
+bk15b B	: %0.0 %0.0
+bk14c B	: %0.0 %0.0
+NetDegree : 2
+bk15a B	: %0.0 %0.0
+bk14a B	: %0.0 %0.0
+NetDegree : 2
+bk14c B	: %0.0 %0.0
+bk14b B	: %0.0 %0.0
+NetDegree : 2
+bk14c B	: %0.0 %0.0
+bk14b B	: %0.0 %0.0
+NetDegree : 2
+bk14b B	: %0.0 %0.0
+bk14a B	: %0.0 %0.0
+NetDegree : 2
+bk10c B	: %0.0 %0.0
+bk10b B	: %0.0 %0.0
+NetDegree : 2
+bk10c B	: %0.0 %0.0
+bk10a B	: %0.0 %0.0
+NetDegree : 2
+bk10b B	: %0.0 %0.0
+bk10a B	: %0.0 %0.0

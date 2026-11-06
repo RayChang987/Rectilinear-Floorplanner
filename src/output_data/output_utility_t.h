@@ -9,7 +9,7 @@
 #include <vector>
 #include <static_data/module_t.h>
 #include <utilities/vec2d_t.h>
-#include "output_data/line_t.h"
+#include "utilities/line_t.h"
 
 class output_utility_t {
 public:

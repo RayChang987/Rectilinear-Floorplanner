@@ -1,0 +1,4 @@
+UCLA pl 1.0
+# Created      : Thu Nov 09 18:23:30 PST 2000
+# User         : huaizhi@olympus
+# Platform     : SunOS 5.6 sparc

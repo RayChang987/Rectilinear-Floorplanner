@@ -1,0 +1,42 @@
+UCSC blocks 1.0
+# Created      : Tue Nov 07 17:53:03 PST 2000
+# User         : huaizhi@olympus
+# Platform     : SunOS 5.6 sparc
+
+NumSoftRectangularBlocks : 33
+NumHardRectilinearBlocks : 0
+NumTerminals : 0
+
+bk1 softrectangular 44688 0.5 2.0
+bk10a softrectangular 44982 0.5 2.0
+bk10b softrectangular 22540 0.5 2.0
+bk10c softrectangular 5831 0.5 2.0
+bk11 softrectangular 20825 0.5 2.0
+bk12 softrectangular 56840 0.5 2.0
+bk13 softrectangular 69580 0.5 2.0
+bk14a softrectangular 23324 0.5 2.0
+bk14b softrectangular 34986 0.5 2.0
+bk14c softrectangular 19159 0.5 2.0
+bk15a softrectangular 31654 0.5 2.0
+bk15b softrectangular 39984 0.5 2.0
+bk16 softrectangular 14994 0.5 2.0
+bk17a softrectangular 67522 0.5 2.0
+bk17b softrectangular 36946 0.5 2.0
+bk18 softrectangular 36946  0.5 2.0
+bk19 softrectangular 9996 0.5 2.0
+bk2 softrectangular 39102 0.5 2.0
+bk20 softrectangular 63700 0.5 2.0
+bk21 softrectangular 44100 0.5 2.0
+bk3 softrectangular 41895 0.5 2.0
+bk4 softrectangular 74480 0.5 2.0
+bk5a softrectangular 18620 0.5 2.0
+bk5b softrectangular 23275 0.5 2.0
+bk5c softrectangular 30723 0.5 2.0
+bk6 softrectangular 41895 0.5 2.0
+bk7 softrectangular 17836 0.5 2.0
+bk8a softrectangular 44100 0.5 2.0
+bk8b softrectangular 47628 0.5 2.0
+bk9a softrectangular 21658 0.5 2.0
+bk9b softrectangular 14161 0.5 2.0
+bk9c softrectangular 42483 0.5 2.0
+bk9d softrectangular 9996 0.5 2.0

@@ -58,6 +58,16 @@ bool rect_t::is_collision(const rect_t &rect) const {
     );
 }
 
+bool rect_t::is_touch(const rect_t &rect) const {
+    return (
+            rect.get_left_lower().get_x() <= this->get_right_upper().get_x() &&
+            rect.get_right_upper().get_y() >= this->get_left_lower().get_y() &&
+            rect.get_right_upper().get_x() >= this->get_left_lower().get_x() &&
+            rect.get_left_lower().get_y() <= this->get_right_upper().get_y()
+    );
+
+}
+
 bool rect_t::is_contain(const rect_t &rect) const {
     return (
             this->get_right_upper().get_x() >= rect.get_right_upper().get_x() &&
@@ -214,4 +224,12 @@ const rect_t rect_t::merge_bounding_rect(const rect_t &rect) const {
 std::ostream &operator<<(std::ostream &os, const rect_t &vec) {
     os << "{" << vec.get_left_lower().get_x() << ", " << vec.get_left_lower().get_y() << " | " << vec.get_size().get_x() << ", " << vec.get_size().get_y() << "}";
     return os;
+}
+
+std::vector<vec2d_t> rect_t::to_bounding_point() const {
+    return {
+        this->get_left_lower(),
+        this->get_left_lower() + vec2d_t(0, this->Size.get_y()),
+        this->get_right_upper(),
+        this->get_left_lower() + vec2d_t(this->Size.get_x(), 0)};
 }

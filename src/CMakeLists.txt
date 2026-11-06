@@ -1,31 +1,19 @@
-set(CMAKE_CXX_STANDARD 17)
-#SET(CMAKE_CXX_FLAGS "-O3")
+# All modules are compiled into one static library. The sub-directories only
+# organise the sources: several of them depend on each other (process <->
+# bounding, utilities <-> static_data), which one library per directory cannot
+# express without relying on the link order.
+file(GLOB_RECURSE FLOORPLANNER_SOURCES CONFIGURE_DEPENDS
+        ${CMAKE_CURRENT_SOURCE_DIR}/bounding/*.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/output_data/*.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/plugin/*.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/polygon/*.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/process/*.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/static_data/*.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/utilities/*.cpp)
 
-add_subdirectory(output_data)
-add_subdirectory(plugin)
-add_subdirectory(polygon)
-add_subdirectory(process)
-add_subdirectory(quadratic)
-add_subdirectory(static_data)
-add_subdirectory(utilities)
+add_library(floorplanner_core STATIC ${FLOORPLANNER_SOURCES})
+target_include_directories(floorplanner_core PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
+target_link_libraries(floorplanner_core PUBLIC glpk::glpk Threads::Threads)
 
-add_executable(iccad2023PD main.cpp)
-
-#target_compile_definitions(output_data PUBLIC DEBUG_DEF)
-#target_compile_definitions(plugin PUBLIC DEBUG_DEF)
-#target_compile_definitions(polygon PUBLIC DEBUG_DEF)
-#target_compile_definitions(process PUBLIC DEBUG_DEF)
-#target_compile_definitions(quadratic PUBLIC DEBUG_DEF)
-#target_compile_definitions(static_data PUBLIC DEBUG_DEF)
-#target_compile_definitions(utilities PUBLIC DEBUG_DEF)
-
-target_link_libraries(iccad2023PD
-        output_data
-        process
-        quadratic
-        polygon
-        plugin
-        static_data
-        utilities
-        )
-
+add_executable(floorplanner main.cpp)
+target_link_libraries(floorplanner PRIVATE floorplanner_core)

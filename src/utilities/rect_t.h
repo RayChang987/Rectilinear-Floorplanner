@@ -22,6 +22,8 @@ public:
 
     rect_t(const rect_t&);
 
+    rect_t() = default;
+
     const vec2d_t &get_left_lower() const;
 
     const vec2d_t &get_right_upper() const;
@@ -34,6 +36,8 @@ public:
 
     bool is_collision(const rect_t& rect) const;
 
+    bool is_touch(const rect_t& rect) const;
+
     bool is_contain(const rect_t& rect) const;
 
     bool is_wrap(const rect_t& rect) const;
@@ -43,6 +47,8 @@ public:
     std::pair<bool, rect_t> intersect(const rect_t& rect) const;
 
     const rect_t merge_bounding_rect(const rect_t& rect) const;
+
+    std::vector<vec2d_t> to_bounding_point() const;
 
     bool operator==(const rect_t& rect) const;
 

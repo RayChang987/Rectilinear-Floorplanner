@@ -8,10 +8,10 @@
 #include <vector>
 using std::vector;
 class case_table_t {
-public:
+   public:
     vector<vector<vector<int>>> cases;
+    vector<vector<vector<int>>> init_cases;
     case_table_t();
 };
 
-
-#endif //ICCAD2023PD_CASE_TABLE_T_H
+#endif  // ICCAD2023PD_CASE_TABLE_T_H

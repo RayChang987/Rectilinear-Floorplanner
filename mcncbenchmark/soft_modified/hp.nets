@@ -1,0 +1,301 @@
+UCLA nets 1.0
+# Created      : Thu Nov 09 18:23:29 PST 2000
+# User         : huaizhi@olympus
+# Platform     : SunOS 5.6 sparc
+
+NumNets : 56
+NumPins : 237
+
+NetDegree : 5
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+npd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+clkc B	: %0.0 %0.0
+NetDegree : 5
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+npd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+clkc B	: %0.0 %0.0
+NetDegree : 5
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+npd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+clkc B	: %0.0 %0.0
+NetDegree : 5
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+npd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+clkc B	: %0.0 %0.0
+NetDegree : 6
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+clkc B	: %0.0 %0.0
+cmp1 B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0
+NetDegree : 6
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+clkc B	: %0.0 %0.0
+cmp1 B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0
+NetDegree : 6
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+clkc B	: %0.0 %0.0
+cmp1 B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0
+NetDegree : 6
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+clkc B	: %0.0 %0.0
+cmp1 B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0
+NetDegree : 2
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+NetDegree : 2
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+NetDegree : 2
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+NetDegree : 2
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+NetDegree : 2
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+NetDegree : 13
+cntu B	: %0.0 %0.0
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+npd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+cntd B	: %0.0 %0.0
+cntd B	: %0.0 %0.0
+clkc B	: %0.0 %0.0
+clkc B	: %0.0 %0.0
+NetDegree : 7
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+npd B	: %0.0 %0.0
+npd B	: %0.0 %0.0
+NetDegree : 14
+cntu B	: %0.0 %0.0
+cntu B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+npd B	: %0.0 %0.0
+npd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+cntd B	: %0.0 %0.0
+cntd B	: %0.0 %0.0
+clkc B	: %0.0 %0.0
+clkc B	: %0.0 %0.0
+NetDegree : 15
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+clkd B	: %0.0 %0.0
+npd B	: %0.0 %0.0
+npd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+NetDegree : 15
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+clkd B	: %0.0 %0.0
+npd B	: %0.0 %0.0
+npd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+NetDegree : 2
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+NetDegree : 2
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+NetDegree : 3
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+NetDegree : 3
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+NetDegree : 3
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+NetDegree : 3
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+nps B	: %0.0 %0.0
+NetDegree : 3
+nps B	: %0.0 %0.0
+npd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+NetDegree : 2
+nps B	: %0.0 %0.0
+cmp1 B	: %0.0 %0.0
+NetDegree : 2
+nps B	: %0.0 %0.0
+cmp1 B	: %0.0 %0.0
+NetDegree : 3
+clkd B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+cntd B	: %0.0 %0.0
+NetDegree : 3
+clkd B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+cntd B	: %0.0 %0.0
+NetDegree : 3
+clkd B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+cntd B	: %0.0 %0.0
+NetDegree : 3
+clkd B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+cntd B	: %0.0 %0.0
+NetDegree : 3
+npd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+NetDegree : 3
+npd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+NetDegree : 5
+npd B	: %0.0 %0.0
+npd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+NetDegree : 7
+ppd B	: %0.0 %0.0
+ppd B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+cntd B	: %0.0 %0.0
+NetDegree : 2
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+NetDegree : 2
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+NetDegree : 3
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+NetDegree : 3
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+NetDegree : 3
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+NetDegree : 3
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+pps B	: %0.0 %0.0
+NetDegree : 2
+pps B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0
+NetDegree : 2
+pps B	: %0.0 %0.0
+cntd B	: %0.0 %0.0
+NetDegree : 2
+pps B	: %0.0 %0.0
+cntd B	: %0.0 %0.0
+NetDegree : 2
+pps B	: %0.0 %0.0
+cntd B	: %0.0 %0.0
+NetDegree : 2
+pps B	: %0.0 %0.0
+cntd B	: %0.0 %0.0
+NetDegree : 2
+pps B	: %0.0 %0.0
+cntd B	: %0.0 %0.0
+NetDegree : 2
+pps B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0
+NetDegree : 4
+clkc B	: %0.0 %0.0
+cmp1 B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0
+NetDegree : 4
+clkc B	: %0.0 %0.0
+cmp1 B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0
+NetDegree : 4
+clkc B	: %0.0 %0.0
+cmp1 B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0
+NetDegree : 4
+clkc B	: %0.0 %0.0
+cmp1 B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0
+NetDegree : 4
+clkc B	: %0.0 %0.0
+cmp1 B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0
+NetDegree : 4
+clkc B	: %0.0 %0.0
+cmp1 B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0
+NetDegree : 6
+cmp1 B	: %0.0 %0.0
+cmp1 B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0
+NetDegree : 6
+cmp1 B	: %0.0 %0.0
+cmp1 B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+cmp2 B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0
+cmp3 B	: %0.0 %0.0

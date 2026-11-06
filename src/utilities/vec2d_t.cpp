@@ -59,6 +59,14 @@ double vec2d_t::get_area() const {
     return get_x() * get_y();
 }
 
+vec2d_t vec2d_t::turn_left90() const {
+    return vec2d_t(-this->get_y(), this->get_x());
+}
+
+vec2d_t vec2d_t::turn_right90() const {
+    return vec2d_t(this->get_y(), -this->get_x());
+}
+
 vec2d_t vec2d_t::operator+(const vec2d_t &vec2D) const {
     return {this->get_x() + vec2D.get_x(), this->get_y() + vec2D.get_y()};
 }

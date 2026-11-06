@@ -1,0 +1,58 @@
+UCSC blocks 1.0
+# Created      : Tue Nov 07 17:53:05 PST 2000
+# User         : huaizhi@olympus
+# Platform     : SunOS 5.6 sparc
+
+NumSoftRectangularBlocks : 49
+NumHardRectilinearBlocks : 0
+NumTerminals : 0
+
+M001 softrectangular 5523672 0.5 2.0
+M002 softrectangular 1044288 0.5 2.0
+M003 softrectangular 2201472 0.5 2.0
+M004 softrectangular 4958800 0.5 2.0
+M005 softrectangular 737352 0.5 2.0
+M006 softrectangular 1642284 0.5 2.0
+M007 softrectangular 303800 0.5 2.0
+M008 softrectangular 802424 0.5 2.0
+M009 softrectangular 452760 0.5 2.0
+M010 softrectangular 181104 0.5 2.0
+M011 softrectangular 312228 0.5 2.0
+M012 softrectangular 323988 0.5 2.0
+M013 softrectangular 178752 0.5 2.0
+M014 softrectangular 375144 0.5 2.0
+M015 softrectangular 341040 0.5 2.0
+M016 softrectangular 256956 0.5 2.0
+M017 softrectangular 296352 0.5 2.0
+M018 softrectangular 422576 0.5 2.0
+M019 softrectangular 323792 0.5 2.0
+M020 softrectangular 201096 0.5 2.0
+M021 softrectangular 323792 0.5 2.0
+M022 softrectangular 346528 0.5 2.0
+M023 softrectangular 555660 0.5 2.0
+M024 softrectangular 212268 0.5 2.0
+M025 softrectangular 252448 0.5 2.0
+M026 softrectangular 254800 0.5 2.0
+M027 softrectangular 305760 0.5 2.0
+M028 softrectangular 551152 0.5 2.0
+M029 softrectangular 487060 0.5 2.0
+M030 softrectangular 947856 0.5 2.0
+M031 softrectangular 411600 0.5 2.0
+M032 softrectangular 296352 0.5 2.0
+M033 softrectangular 1799280 0.5 2.0
+M034 softrectangular 642880 0.5 2.0
+M035 softrectangular 334768 0.5 2.0
+M036 softrectangular 445312 0.5 2.0
+M037 softrectangular 682080 0.5 2.0
+M038 softrectangular 432768 0.5 2.0
+M039 softrectangular 285376 0.5 2.0
+M040 softrectangular 340256 0.5 2.0
+M041 softrectangular 310856 0.5 2.0
+M042 softrectangular 63504 0.5 2.0
+M043 softrectangular 484120 0.5 2.0
+M044 softrectangular 820260 0.5 2.0
+M045 softrectangular 780864 0.5 2.0
+M046 softrectangular 606816 0.5 2.0
+M047 softrectangular 352408 0.5 2.0
+M048 softrectangular 947856 0.5 2.0
+M049 softrectangular 290864 0.5 2.0

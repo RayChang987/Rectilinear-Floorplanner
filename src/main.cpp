@@ -1,42 +1,65 @@
+#include <cstdio>
+#include <cstdlib>
+#include <exception>
 #include <iostream>
-#include <fstream>
-#include <iomanip>
+#include <string>
 
-#include "static_data/chip_t.h"
+#include "plugin/argumentParser.h"
+#include "process/functional/random_helper.h"
 #include "process/solver_t.h"
-#include "process/floorplan_t.h"
-#include "output_data/output_handler_t.h"
-#include "output_data/output_utility_t.h"
+#include "process/tester.h"
+#include "static_data/chip_t.h"
+#include "static_data/io_handler_t.h"
 
+namespace {
 
-int main(/*arg*/){
-    std::string input_file_name = "";
-    std::string output_file_name = "";
+void usage(int /*argc*/, char* argv[]) {
+    std::cerr
+        << "Usage: " << argv[0] << " -i <input> [-o <output dir>] [-s <seed>] [-t]\n"
+        << "  -i <input>       input file (ICCAD 2023 Problem D format)\n"
+        << "  -o <output dir>  directory of check.txt (default: .)\n"
+        << "  -s <seed>        random seed (default: random)\n"
+        << "  -t               run the predetermined sequence pair of a known\n"
+        << "                   test case instead of the solver\n";
+}
 
-    input_file_name = "../../testcase/Case01.txt";
+}  // namespace
 
-    chip_t::file_input(input_file_name);//fstream
-
-    solver_t solver;
-    solver.run();
-
-    floorplan_t fp = solver.get_best_fp();
-    output_handler_t::set_FP(fp);
-
-    std::fstream output_file;
-    output_file.open(output_file_name, std::ios::out | std::ios::trunc);
-
-    output_file << std::setiosflags(std::ios_base::fixed) << std::setprecision(1);
-
-    output_file << "HPWL " << output_handler_t::HPWL() << std::endl;
-
-    output_file << "SOFTMODULE " << chip_t::get_soft_modules().size();
-
-    for (output_utility_t& output_utility : output_handler_t::to_real()) {
-        output_file << output_utility.to_string();
+int main(int argc, char** argv) {
+    argumentParser argument;
+    try {
+        argument = argumentParser(argc, argv, usage);
+    } catch (std::exception& e) {
+        logger_t::error({e.what()});
+        return 1;
     }
-    output_file.close();
+    if (!argument.has("i")) {
+        usage(argc, argv);
+        return 1;
+    }
 
-    fgetc(stdin);
-    std::cout << "press any key to end the program" << std::endl;
+    io_handler_t::input_file_name = argument.get("i");
+    chip_t::file_input(io_handler_t::input_file_name,
+                       chip_t::file_type_t::iccad_pd);
+    if (argument.has("o")) {
+        io_handler_t::output_checker_file_name = argument.get("o");
+    }
+    if (argument.has("s")) {
+        random_helper::set_seed(
+            static_cast<uint32_t>(std::stoul(argument.get("s"))));
+    } else {
+        random_helper::set_seed();
+    }
+    logger_t::info({"Random seed: " + std::to_string(random_helper::get_seed())});
+
+    if (argument.has("t")) {
+        tester_t tester;
+        tester.test_sp();
+        logger_t::action({"Press any key to end the program"});
+        fgetc(stdin);
+    } else {
+        solver_t solver;
+        solver.run();
+    }
+    return 0;
 }

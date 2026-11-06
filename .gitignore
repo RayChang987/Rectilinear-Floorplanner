@@ -3,3 +3,7 @@
 cmake-build*/
 build-*/
 build*/
+outputpng/
+.vscode/
+out/
+__pycache__/

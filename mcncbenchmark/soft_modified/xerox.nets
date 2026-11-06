@@ -1,0 +1,907 @@
+UCLA nets 1.0
+# Created      : Thu Nov 09 18:23:31 PST 2000
+# User         : huaizhi@olympus
+# Platform     : SunOS 5.6 sparc
+
+NumNets : 203
+NumPins : 696
+
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 19
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+NetDegree : 20
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 72
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 28
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 3
+BLKUL B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 31
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+NetDegree : 4
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 3
+BLKUL B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 3
+BLKUL B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 5
+BLKUL B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 4
+BLKUL B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 3
+BLKUL B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 3
+BLKUL B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 3
+BLKUL B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 3
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 3
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 3
+BLKUL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 21
+BLKUL B	: %0.0 %0.0
+BLKUL B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 3
+BLKUL B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKUL B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+NetDegree : 2
+BLKT B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKT B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 4
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 3
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 5
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 5
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+NetDegree : 2
+BLKT B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+NetDegree : 2
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 2
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+NetDegree : 3
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKT B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKT B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKT B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKT B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+NetDegree : 7
+BLKT B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 4
+BLKLL B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 2
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+NetDegree : 2
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKLL B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 4
+BLKLL B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKLL B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 4
+BLKLL B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 4
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+NetDegree : 2
+BLKLL B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKLL B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 2
+BLKLL B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 3
+BLKLL B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKLL B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 6
+BLKLL B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 4
+BLKLL B	: %0.0 %0.0
+BLKLL B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 4
+BLKLL B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 2
+BLKLL B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 2
+BLKLL B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 2
+BLKLL B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 2
+BLKLL B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKLL B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKD B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+NetDegree : 2
+BLKD B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+NetDegree : 2
+BLKD B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+NetDegree : 2
+BLKD B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+NetDegree : 2
+BLKD B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+NetDegree : 2
+BLKD B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+NetDegree : 2
+BLKD B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+NetDegree : 2
+BLKD B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+NetDegree : 2
+BLKD B	: %0.0 %0.0
+BLKD B	: %0.0 %0.0
+NetDegree : 2
+BLKD B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 4
+BLKD B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 2
+BLKD B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 2
+BLKD B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 5
+BLKD B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 4
+BLKD B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 6
+BLKD B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 5
+BLKD B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 4
+BLKP B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 4
+BLKP B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 3
+BLKP B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+NetDegree : 4
+BLKP B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 2
+BLKP B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+NetDegree : 2
+BLKP B	: %0.0 %0.0
+BLKP B	: %0.0 %0.0
+NetDegree : 3
+BLKRC B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 8
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 4
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 3
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 3
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 4
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRC B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+NetDegree : 2
+BLKRC B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKRS B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKRS B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 4
+BLKRS B	: %0.0 %0.0
+BLKRS B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKRS B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKRS B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKRS B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKRS B	: %0.0 %0.0
+BLKLR B	: %0.0 %0.0
+NetDegree : 2
+BLKRS B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKRS B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKRS B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 2
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 3
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 2
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 2
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 2
+BLKB B	: %0.0 %0.0
+BLKB B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 2
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+NetDegree : 3
+BLKLR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0
+BLKUR B	: %0.0 %0.0

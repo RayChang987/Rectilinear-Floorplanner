@@ -8,6 +8,8 @@
 
 #include <cmath>
 #include <ostream>
+#include <optional>
+
 
 class vec2d_t {
     friend std::ostream& operator<<(std::ostream& os, const vec2d_t& vec);
@@ -43,6 +45,10 @@ public:
     double get_length() const;
 
     double get_area() const;
+
+    vec2d_t turn_left90() const;
+
+    vec2d_t turn_right90() const;
 
     vec2d_t operator+(const vec2d_t& vec2D) const;
 

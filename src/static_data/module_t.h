@@ -10,8 +10,10 @@
 #include <utility>
 #include <fstream>
 #include <cmath>
+#include <cstdint>
 #include "utilities/rect_t.h"
 #include "utilities/bounding_rectangle_t.h"
+#include "mcnc/pin_t.h"
 
 class module_t {
     friend class chip_t;
@@ -20,6 +22,8 @@ protected:
     std::vector<std::pair<const module_t *const, const int>> connections;
 
 public:
+    std::vector<pin_t*> pins;
+
     virtual const uint32_t get_area() const = 0;
 
     virtual const vec2d_t get_left_lower() const = 0;

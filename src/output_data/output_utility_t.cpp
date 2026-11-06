@@ -50,7 +50,7 @@ void output_utility_t::reconstruct() {
 void output_utility_t::add_new_points(const std::vector<line_t> &lines) {
     if(this->points.empty()){
         for(auto line : lines){
-            this->points.push_back(line.getStart());
+            this->points.push_back(line.get_start());
             this->lines.push_back(line);
         }
         return;
@@ -76,13 +76,13 @@ void output_utility_t::add_new_points(const std::vector<line_t> &lines) {
     }
     if ((stop_j + 1) % lines.size() == _j){
         for(int i = 0; i < lines.size(); ++i){
-            auto test = lines[(stop_j + 1 - i + lines.size()) % lines.size()].getStart();
-            if(this->points[(_i + 1) % this->lines.size()] == lines[(stop_j + 1 - i + lines.size()) % lines.size()].getStart()){
+            auto test = lines[(stop_j + 1 - i + lines.size()) % lines.size()].get_start();
+            if(this->points[(_i + 1) % this->lines.size()] == lines[(stop_j + 1 - i + lines.size()) % lines.size()].get_start()){
                 this->points.erase(this->points.begin() + (_i + 1) % this->lines.size());
-            }else if(this->points[(_i) % this->lines.size()] == lines[(stop_j + 1 - i + lines.size()) % lines.size()].getStart()){
+            }else if(this->points[(_i) % this->lines.size()] == lines[(stop_j + 1 - i + lines.size()) % lines.size()].get_start()){
                 this->points.erase(this->points.begin() + (_i) % this->lines.size());
             }else{
-                this->points.insert(this->points.begin() + (_i + 1) % this->lines.size(), lines[(stop_j + 1 - i + lines.size()) % lines.size()].getStart());
+                this->points.insert(this->points.begin() + (_i + 1) % this->lines.size(), lines[(stop_j + 1 - i + lines.size()) % lines.size()].get_start());
             }
         }
     }else{
@@ -90,12 +90,12 @@ void output_utility_t::add_new_points(const std::vector<line_t> &lines) {
             auto first = this->points[(_i + 1) % this->lines.size()];
             auto sec = this->points[(_i) % this->lines.size()];
             auto place = this->points.begin() + (_i + 1) % this->lines.size();
-            if(this->points[(_i + 1) % this->lines.size()] == lines[i].getStart()){
+            if(this->points[(_i + 1) % this->lines.size()] == lines[i].get_start()){
                 this->points.erase(this->points.begin() + (_i + 1) % this->lines.size());
-            }else if(this->points[(_i) % this->lines.size()] == lines[i].getStart()){
+            }else if(this->points[(_i) % this->lines.size()] == lines[i].get_start()){
                 this->points.erase(this->points.begin() + (_i) % this->lines.size());
             }else{
-                this->points.insert(this->points.begin() + (_i + 1) % this->lines.size(), lines[i].getStart());
+                this->points.insert(this->points.begin() + (_i + 1) % this->lines.size(), lines[i].get_start());
             }
         }
     }
@@ -141,9 +141,9 @@ void output_utility_t::minus_new_points(const std::vector<line_t> &lines) {
     if((stop_j) % lines.size() == (_j + 1) % lines.size()){
         for (int i = 0; i < lines.size(); ++i) {
             if(delete_flag){
-                this->points.insert(this->points.begin(), lines[(stop_j + i) % lines.size()].getStart());
+                this->points.insert(this->points.begin(), lines[(stop_j + i) % lines.size()].get_start());
             }else{
-                this->points.insert(this->points.begin() + (_i + 1) % this->lines.size(), lines[(stop_j + i) % lines.size()].getStart());
+                this->points.insert(this->points.begin() + (_i + 1) % this->lines.size(), lines[(stop_j + i) % lines.size()].get_start());
             }
         }
     }else{
@@ -151,16 +151,16 @@ void output_utility_t::minus_new_points(const std::vector<line_t> &lines) {
             auto first = this->points[(_i + 1) % this->lines.size()];
             auto sec = this->points[(_i) % this->lines.size()];
             auto place = this->points.begin() + (_i + 1) % this->lines.size();
-            auto rea = lines[i].getStart();
-//        if(this->points[(_i + 1) % this->lines.size()] == lines[i].getStart()){
+            auto rea = lines[i].get_start();
+//        if(this->points[(_i + 1) % this->lines.size()] == lines[i].get_start()){
 //            this->points.erase(this->points.begin() + (_i + 1) % this->lines.size());
-//        }else if(this->points[(_i) % this->lines.size()] == lines[i].getStart()){
+//        }else if(this->points[(_i) % this->lines.size()] == lines[i].get_start()){
 //            this->points.erase(this->points.begin() + (_i) % this->lines.size());
 //        }else{
             if(delete_flag){
-                this->points.insert(this->points.begin(), lines[i].getStart());
+                this->points.insert(this->points.begin(), lines[i].get_start());
             }else{
-                this->points.insert(this->points.begin() + (_i + 1) % this->lines.size(), lines[i].getStart());
+                this->points.insert(this->points.begin() + (_i + 1) % this->lines.size(), lines[i].get_start());
             }
 //        }
         }
